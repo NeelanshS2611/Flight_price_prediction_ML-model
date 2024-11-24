@@ -1,6 +1,6 @@
 # Flight_price_prediction_ML-model
 End-to-End Machine Learning Project: Flight Price Prediction with AWS SageMaker
-This project is a practical implementation of a machine learning workflow using AWS SageMaker, created as part of the AWS SageMaker End-to-End Machine Learning Course in collaboration with CampusX. The project demonstrates the complete lifecycle of building, deploying, and managing a machine learning model on the cloud, specifically for predicting flight prices.
+This project is a practical implementation of a machine learning workflow using AWS SageMaker. The project demonstrates the complete lifecycle of building, deploying, and managing a machine learning model on the cloud, specifically for predicting flight prices.
 
 🌟 Project Highlights
 End-to-End ML Workflow: Covers everything from data cleaning and exploratory data analysis (EDA) to feature engineering, model training, and cloud deployment.
